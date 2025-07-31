@@ -196,10 +196,6 @@ const Index = () => {
         </div>
       </section>
 
-      <section className="two"></section>
-      <section className="three"></section>
-      <section className="four"></section>
-      <section className="five"></section>
 
       {/* Custom cursor */}
       <div ref={cursorRef} className="custom-cursor"></div>
